@@ -130,3 +130,4 @@ gastracer/
 │
 ├── requirements.txt # Dependencias Python
 └── README.md
+---
